@@ -1,0 +1,37 @@
+div {
+  margin: 25px;
+}
+
+#newTable * {
+  border: 1px solid;
+}
+#newTable {
+  border-collapse: collapse;
+}
+.cell {
+  text-align: center;
+  padding: 12px;
+}
+td {
+  background-color: rgb(162, 207, 192);
+}
+
+th {
+  background-color: rgb(235, 172, 78);
+}
+.address {
+  font-size: 18px;
+}
+.name {
+  color: rgb(12, 42, 211);
+}
+
+ol > li {
+  font-size: 25px;
+  color: blue;
+}
+
+ul > li {
+  font-size: 25px;
+  color: blueviolet;
+}
